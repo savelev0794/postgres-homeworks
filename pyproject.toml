@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "poetry update"
-version = "poetry upgrade"
+name = "postgres-homeworks"
+version = "0.1.0"
 description = ""
 authors = ["Egor Savelyev <savelev0794@mail.ru>"]
 readme = "README.md"
