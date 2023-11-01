@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "poetry update"
+version = "poetry upgrade"
+description = ""
+authors = ["Egor Savelyev <savelev0794@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
